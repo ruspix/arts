@@ -35,6 +35,48 @@
 		"coords": "4828_-15173"
 	},
 	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part6_8686_-16985.png",
+		"name": "Часть 6",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "8686_-16985"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part7_5370_-16961.png",
+		"name": "Часть 7",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "5370_-16961"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part8_5172_-18920.png",
+		"name": "Часть 8",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "5172_-18920"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part9_8710_-18941.png",
+		"name": "Часть 9",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "8710_-18941"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part10_9053_-21515.png",
+		"name": "Часть 10",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "9053_-21515"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part11_9974_-23585.png",
+		"name": "Часть 11",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "9974_-23585"
+	},
+	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/0_ppf_0_Romania_3605_-10666.png",
 		"author": "RoZone",
 		"description": "Официальный шаблон Румынии"
