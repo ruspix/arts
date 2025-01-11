@@ -31,5 +31,33 @@
 		"author": "nof",
 		"description": "",
 		"coords": "11017_-15594"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/4009_-11227.png",
+		"name": "NinjaGirl",
+		"author": "",
+		"description": "",
+		"coords": "4009_-11227"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/6457_-17052.png",
+		"name": "AnimeGirl",
+		"author": "",
+		"description": "",
+		"coords": "6457_-17052"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/15084_-13397.png",
+		"name": "Tank",
+		"author": "",
+		"description": "",
+		"coords": "15084_-13397"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/Russia_V.6.3.3.png",
+		"name": "Вся европейская часть",
+		"author": "gojda",
+		"description": "Внимание, очень огромное изображение",
+		"coords": "2530_-23585"
 	}
 ]
