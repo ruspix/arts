@@ -7,6 +7,34 @@
 		"coords": "3025_-13025"
 	},
 	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part2_5666_-10753.png",
+		"name": "Часть 2",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "5666_-10753"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part3_5666_-12949.png",
+		"name": "Часть 3",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "5666_-12949"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part4_9184_-15017.png",
+		"name": "Часть 4",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "9184_-15017"
+	},
+	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part5_4828_-15173.png",
+		"name": "Часть 5",
+		"author": "gojda",
+		"description": "Часть общего шаблона Ruspixel",
+		"coords": "4828_-15173"
+	},
+	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/0_ppf_0_Romania_3605_-10666.png",
 		"author": "RoZone",
 		"description": "Официальный шаблон Румынии"
