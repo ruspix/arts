@@ -82,13 +82,6 @@
 		"description": "Официальный шаблон Румынии"
 	},
 	{
-		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/aacolor.png",
-		"name": "Alya",
-		"author": "nof",
-		"description": "Арт русской женщины",
-		"coords": "8225_-10034"
-	},
-	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/image_2024-12-22_06-51-56.png",
 		"name": "Флаг НСО",
 		"author": "Тинн",
@@ -108,20 +101,6 @@
 		"author": "nof",
 		"description": "",
 		"coords": "11017_-15594"
-	},
-	{
-		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/4009_-11227.png",
-		"name": "NinjaGirl",
-		"author": "",
-		"description": "",
-		"coords": "4009_-11227"
-	},
-	{
-		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/6457_-17052.png",
-		"name": "AnimeGirl",
-		"author": "",
-		"description": "",
-		"coords": "6457_-17052"
 	},
 	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/15084_-13397.png",
