@@ -1,5 +1,12 @@
 [
 	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part1_3025_-13025.png",
+		"name": "Часть 1",
+		"author": "Часть общего шаблона Ruspixel",
+		"description": "",
+		"coords": "3025_-13025"
+	},
+	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/0_ppf_0_Romania_3605_-10666.png",
 		"author": "RoZone",
 		"description": "Официальный шаблон Румынии"
