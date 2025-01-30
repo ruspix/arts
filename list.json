@@ -82,18 +82,11 @@
 		"description": "Официальный шаблон Румынии"
 	},
 	{
-		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/image_2024-12-22_06-51-56.png",
-		"name": "Флаг НСО",
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/nso.png",
+		"name": "Шаблон НСО",
 		"author": "Тинн",
 		"description": "",
-		"coords": "14092_-12291"
-	},
-	{
-		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/image_2025-01-05_10-33-05.png",
-		"name": "Мужик и мужик",
-		"author": "Тинн",
-		"description": "",
-		"coords": "15239_-12490"
+		"coords": "13581_-13331"
 	},
 	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/zhenshini.png",
