@@ -1,5 +1,12 @@
 [
 	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/22355_-12753.png",
+		"name": "Приморье",
+		"author": "Птичка",
+		"description": "Шаблон Приморье PPF на момент 05.04.2025",
+		"coords": "22355_-12753"
+	},
+	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/part1_3025_-13025.png",
 		"name": "Часть 1",
 		"author": "gojda",
