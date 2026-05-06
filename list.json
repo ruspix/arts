@@ -16,7 +16,7 @@
 	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/ruswplace.png",
 		"name": "Шаблон WPlace",
-		"author": "Птичка",
+		"author": "Ruswplace",
 		"description": "Наш основной шаблон на WPlace в центре Москвы",
 		"coords": "1237 639 899 520",
 		"wplace": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/wpl_import/ruswplace.wplace"
