@@ -1,5 +1,12 @@
 [
 	{
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/3363_-23585.png",
+		"name": "Общий шаблон RusPixel",
+		"author": "gojda",
+		"description": "ПОЛУОФИЦИАЛЬНЫЙ ШАБЛОН ЕВРОПЕЙСКОЙ РОССИИ",
+		"coords": "3363_-23585"
+	},
+	{
 		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/22343_-12737.png",
 		"name": "Приморье",
 		"author": "Птичка",
@@ -7,11 +14,12 @@
 		"coords": "22343_-12737"
 	},
 	{
-		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/3363_-23585.png",
-		"name": "Общий шаблон RusPixel",
-		"author": "gojda",
-		"description": "ПОЛУОФИЦИАЛЬНЫЙ ШАБЛОН ЕВРОПЕЙСКОЙ РОССИИ",
-		"coords": "3363_-23585"
+		"src": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/images/ruswplace.png",
+		"name": "Шаблон WPlace",
+		"author": "Птичка",
+		"description": "Наш основной шаблон на WPlace в центре Москвы",
+		"coords": "1237 639 899 520",
+		"wplace": "https://raw.githubusercontent.com/ruspix/arts/refs/heads/main/wpl_import/ruswplace.wplace"
 	}
 ]
 
